@@ -17,18 +17,11 @@ Hazem
 https://store.fut-electronics.com/products/wifi-serial-ttl-module?_pos=1&_sid=00c35c952&_ss=r
 Mina , Iten 
 
-4.VL53L1X Time of Flight Sensor (4m Precision Distance Measurements)
-https://store.fut-electronics.com/products/vl53l1x-time-of-flight-sensor-precision-long-distance-measurements?_pos=2&_sid=fcc2a24e2&_ss=r
-Omar
-
-5. Micro Servo Motor(1.3 kg.cm)
-https://store.fut-electronics.com/products/micro-servo-motor-1-3kg-cm?_pos=26&_sid=cda2b61c4&_ss=r
-
-6. OV7670 Camera Module
-https://store.fut-electronics.com/products/ov7670-camera-module?_pos=1&_sid=a653eb6b3&_ss=r
+4. MPU6050
+https://store.fut-electronics.com/products/imu-3-axis-gyro-3-axis-accelorometer-mpu-6050
 We'Am , yousef atef
 
-7. Micro SD Card Module
+5. Micro SD Card Module
 https://store.fut-electronics.com/products/micro-sd-card-module?_pos=1&_sid=f49111adc&_ss=r
 Abdullah , Kamal
 
